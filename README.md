@@ -77,6 +77,7 @@ Always rebuild and recopy after updating the Web Component.
 
 ### 📁 Folder Structure
 
+```bash
 vue-form-engine-demo/
 ├── public/
 │ └── web-components/
@@ -86,6 +87,7 @@ vue-form-engine-demo/
 │ └── FormComponent.vue
 ├── index.html
 └── ...
+```
 
 ## Recommended IDE Setup
 
