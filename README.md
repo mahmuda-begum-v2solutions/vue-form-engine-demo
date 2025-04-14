@@ -1,6 +1,6 @@
-### vue-form-engine-demo
+### vue-form-engine-demo-local
 
-# 📦 vue-form-engine-demo
+# 📦 vue-form-engine-demo-local
 
 This is the **demo project** for testing Web Components built using [vue-form-engine-wc](https://github.com/your-username/vue-form-engine-wc).
 
@@ -78,7 +78,7 @@ Always rebuild and recopy after updating the Web Component.
 ### 📁 Folder Structure
 
 ```bash
-vue-form-engine-demo/
+vue-form-engine-demo-local/
 ├── public/
 │ └── web-components/
 │ └── my-web-components.js # <-- Copied here from vue-form-engine-wc
